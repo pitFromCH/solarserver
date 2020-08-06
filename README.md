@@ -1,1 +1,2 @@
-Thats my solar-server project
+Thats my solar server project
+-------------------------------
